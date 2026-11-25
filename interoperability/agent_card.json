@@ -1,0 +1,8 @@
+{
+  "name": "CrewAI Analytics Worker",
+  "description": "Autonomous data & metrics agent",
+  "version": "1.0.0",
+  "url": "http://localhost:8000/a2a",
+  "capabilities": ["data_analysis", "metrics_reader"],
+  "authentication": {"type": "ed25519_signature"}
+}

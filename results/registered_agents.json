@@ -1,0 +1,158 @@
+[
+  {
+    "card": {
+      "did": "did:vireo:ce6a68d163983e19a2695b17c6f66518",
+      "name": "security_auditor",
+      "version": "1.0.0",
+      "url": "local://vireo/security_auditor",
+      "capabilities": [
+        "security_audit",
+        "schema_audit",
+        "integrity_check"
+      ],
+      "public_key_pem": "-----BEGIN PUBLIC KEY-----\nMCowBQYDK2VwAyEAkx+eAl4MMkAOC3Ynn6hSMmFSrQHakRl4edEh4TKyI1E=\n-----END PUBLIC KEY-----\n",
+      "authentication": {
+        "type": "ed25519_signature"
+      }
+    },
+    "signature": "xSyvZ3wG2kRqMxxThfG1LT8pQ1flDbY4fDZ3UPJ2eR3Dx8NTr1+yI7qkhcExPI5OggL/ZlituNwvHnwHbv0RDg=="
+  },
+  {
+    "card": {
+      "did": "did:vireo:144c0c5600d0bbf921f3c5320b43e562",
+      "name": "security_auditor",
+      "version": "1.0.0",
+      "url": "local://vireo/security_auditor",
+      "capabilities": [
+        "security_audit",
+        "schema_audit",
+        "integrity_check"
+      ],
+      "public_key_pem": "-----BEGIN PUBLIC KEY-----\nMCowBQYDK2VwAyEAsr9bOaHswaLZ6Xfn0S4mAVTqDhDbYw/IHCPo5+FHWEs=\n-----END PUBLIC KEY-----\n",
+      "authentication": {
+        "type": "ed25519_signature"
+      }
+    },
+    "signature": "GxnrU7ezUnYUn50w9KPl6ceNFjjbRyi+JOzTk0PAAeeXuklI5bddZUZnrfpHhiZuA0J4O4A6H8DeqfFyWpzxCw=="
+  },
+  {
+    "card": {
+      "did": "did:vireo:1153e85caf9f215980b251fd7fb740d9",
+      "name": "security_auditor",
+      "version": "1.0.0",
+      "url": "local://vireo/security_auditor",
+      "capabilities": [
+        "security_audit",
+        "schema_audit",
+        "integrity_check"
+      ],
+      "public_key_pem": "-----BEGIN PUBLIC KEY-----\nMCowBQYDK2VwAyEAoJtZDCrZJLvF6FbSzbN2oilAlWPP5zLQruZx637CmyM=\n-----END PUBLIC KEY-----\n",
+      "authentication": {
+        "type": "ed25519_signature"
+      }
+    },
+    "signature": "Vqvm4Di10QQh9RlgbyCGddGEIn+DIIIwrdav+w8ktulkVAcQCgf1tUMdneeAvz21NtQKFMJHstAJyErvKesHCA=="
+  },
+  {
+    "card": {
+      "did": "did:vireo:38e12fdf7de4c75112a8b329e1a2a9ef",
+      "name": "security_auditor",
+      "version": "1.0.0",
+      "url": "local://vireo/security_auditor",
+      "capabilities": [
+        "security_audit",
+        "schema_audit",
+        "integrity_check"
+      ],
+      "public_key_pem": "-----BEGIN PUBLIC KEY-----\nMCowBQYDK2VwAyEAcy5EDnjFVAHUSk+IWJZC3yq4esqiw9zLRKWGAKO9yU8=\n-----END PUBLIC KEY-----\n",
+      "authentication": {
+        "type": "ed25519_signature"
+      }
+    },
+    "signature": "79Qjqj09e80rL1eWjaBGqJBzLsazDCrSrJ1ryZluD6tyqHyYXIXNwam8sVYkEuZZcVnjh7+vlRlpoSWwC5bfBQ=="
+  },
+  {
+    "card": {
+      "did": "did:vireo:44cc9b90f2291ff24afa068e47fb5f2b",
+      "name": "security_auditor",
+      "version": "1.0.0",
+      "url": "local://vireo/security_auditor",
+      "capabilities": [
+        "security_audit",
+        "schema_audit",
+        "integrity_check"
+      ],
+      "public_key_pem": "-----BEGIN PUBLIC KEY-----\nMCowBQYDK2VwAyEAnzSLldOm6l6akf7mfaAFiqkAm324yniElpRM2CLgKkM=\n-----END PUBLIC KEY-----\n",
+      "authentication": {
+        "type": "ed25519_signature"
+      }
+    },
+    "signature": "RyKhS+FejAcR+CRgkyDay0tUpdX+bTBW7+b/AplS0qk+QLKgNzq7kv2J5kXG3kpf/RpY0WVIWviYEWxsmKjWDw=="
+  },
+  {
+    "card": {
+      "did": "did:vireo:ce660506c9f4df98e03015bf68960160",
+      "name": "security_auditor",
+      "version": "1.0.0",
+      "url": "local://vireo/security_auditor",
+      "capabilities": [
+        "security_audit",
+        "schema_audit",
+        "integrity_check"
+      ],
+      "public_key_pem": "-----BEGIN PUBLIC KEY-----\nMCowBQYDK2VwAyEAdPdDnNpK1FsiKENA0jJoOcOwmk8yMHFZ/IPaTPTQSGk=\n-----END PUBLIC KEY-----\n",
+      "authentication": {
+        "type": "ed25519_signature"
+      }
+    },
+    "signature": "HWvOePYGrp4LtuBtBSDKP/3r9F9emuotPqXtSy1+lX6Rv0yAbAGHG0ZVeyYXEMtX+Gn3Z/spq85qKuNc6+NgCA=="
+  },
+  {
+    "card": {
+      "did": "did:vireo:b9907d880dcde670f3a3998272ba03de",
+      "name": "security_auditor",
+      "version": "1.0.0",
+      "url": "local://vireo/security_auditor",
+      "capabilities": [
+        "security_audit"
+      ],
+      "public_key_pem": "-----BEGIN PUBLIC KEY-----\nMCowBQYDK2VwAyEAdy9jJ6tNFCkTfM6AmMTksp//DZI8xxIzCPrnOnfDtOw=\n-----END PUBLIC KEY-----\n",
+      "authentication": {
+        "type": "ed25519_signature"
+      }
+    },
+    "signature": "3/M6djA04XEyrWVkWVMmeb5P4h6UOQ82TQn0RUch3CmdlrHaEW/VFvDACZVloD/t7txWMj2wRkKVkl5eSGG0Bw=="
+  },
+  {
+    "card": {
+      "did": "did:vireo:dbbd6adaab75a1f229b6c44e11fb8afa",
+      "name": "security_auditor",
+      "version": "1.0.0",
+      "url": "local://vireo/security_auditor",
+      "capabilities": [
+        "metrics_reader"
+      ],
+      "public_key_pem": "-----BEGIN PUBLIC KEY-----\nMCowBQYDK2VwAyEAznYYkfUs2iZbEf/gK8zjBKBwDLnDqN8BgP1Kkzcpc58=\n-----END PUBLIC KEY-----\n",
+      "authentication": {
+        "type": "ed25519_signature"
+      }
+    },
+    "signature": "5JzvJbAlbHPjHYlA2byPOZRbi3Itam8mRCj1qOlobgrjfoFLydExsM1j3/xPEbGXQ/+QVq/7spfPmHgW5tGDCQ=="
+  },
+  {
+    "card": {
+      "did": "did:vireo:83e07556e4ab3d56b11caf835caf9b31",
+      "name": "security_auditor",
+      "version": "1.0.0",
+      "url": "local://vireo/security_auditor",
+      "capabilities": [
+        "security_audit"
+      ],
+      "public_key_pem": "-----BEGIN PUBLIC KEY-----\nMCowBQYDK2VwAyEAYJP2sWEXiiF0gXpuO4IEJ8XQqZfSE+nRonXltnL+iss=\n-----END PUBLIC KEY-----\n",
+      "authentication": {
+        "type": "ed25519_signature"
+      }
+    },
+    "signature": "UFkGH0R1gaUrVJvgfSkd+VR6yoC8yxa9l4ZHH0/1BFqWE250EP/LxMaqDBZY3x8KK+LF8Pw8syyt6jYH7dYbBg=="
+  }
+]
