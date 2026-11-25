@@ -1,4 +1,24 @@
+# Virtual environments & Python cache
 .venv/
+venv/
 __pycache__/
-*.pyc
+*.py[cod]
+*$py.class
+*.egg-info/
+dist/
+build/
+
+# Environment & local secrets
+.env
+.env.*
+!.env.example
+
+# OS & editor artifacts
+.DS_Store
+Thumbs.db
+Desktop.ini
+.vscode/
+.idea/
+
+# Runtime / benchmark outputs
 results/latest_benchmark.json
