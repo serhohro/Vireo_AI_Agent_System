@@ -4,6 +4,8 @@ An innovative open coordination and control plane (`Coordination & Control Plane
 
 Built around a custom W3C-registered decentralized identifier method **`did:vireo`**, the project tackles a core challenge of autonomous multi-agent systems: **trust, cryptographic accountability, and result integrity verification** rather than blind execution. Every task run passes through a commitment contract, cryptographic signature verification, dynamic agent assignment, and JSON schema validation.
 
+[Українська версія](./README.uk.md) · [Releases](https://github.com/serhohro/Vireo_AI_Agent_System/releases) · [vireo-ai-communicator-api](https://github.com/serhohro/vireo-ai-communicator-api)
+
 ## Key Capabilities
 
 - **Custom `did:vireo` Identity & Ed25519 Signatures:** each agent uses an Ed25519 key pair, a signed `Agent Card`, and a `did:vireo:...` identifier to verify origin and action accountability.
